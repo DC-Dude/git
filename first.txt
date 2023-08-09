@@ -2,3 +2,4 @@
  file add into master.
 update through github in this branch.
 verify from local update branch using pull method.
+check rebase method.
